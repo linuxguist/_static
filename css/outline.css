@@ -46,7 +46,7 @@ code {
 
 #main-document{
     width: 64%;
-    margin-left: 54%;
+    margin-left: 64%;
     transition: width .3s, margin-left .3s;
 }
 #main-document.no-outline{
