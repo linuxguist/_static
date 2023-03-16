@@ -18,7 +18,7 @@ body{
 }
 
 pre {
-  width: 77%;
+  // width: 77%;
   white-space: pre;
   margin: 0;
   // padding: 12px 12px;
@@ -46,7 +46,7 @@ code {
 
 #main-document{
     width: 64%;
-    margin-left: 34%;
+    margin-left: 54%;
     transition: width .3s, margin-left .3s;
 }
 #main-document.no-outline{
